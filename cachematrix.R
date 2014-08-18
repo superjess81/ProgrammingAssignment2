@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## This function creates a special "matrix" object that can cache its inverse.
 
 ## The input is a matrix ("x") and the output a list containing a function to
